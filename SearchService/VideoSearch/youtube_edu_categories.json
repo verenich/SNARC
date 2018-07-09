@@ -1,0 +1,2452 @@
+{
+    "category": [
+      {
+        "term": "0",
+        "label": "Primary & Secondary Education",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "1",
+        "label": "Fine Arts",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "2",
+        "label": "Dance",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "1" }
+      },
+      {
+        "term": "3",
+        "label": "Dramatic Arts & Theatre",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "1" }
+      },
+      {
+        "term": "4",
+        "label": "Music",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "1" }
+      },
+      {
+        "term": "5",
+        "label": "Visual Arts",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "1" }
+      },
+      {
+        "term": "6",
+        "label": "Health",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "7",
+        "label": "Mental & Emotional Health",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "6" }
+      },
+      {
+        "term": "8",
+        "label": "Nutrition",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "6" }
+      },
+      {
+        "term": "9",
+        "label": "Physical Education",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "6" }
+      },
+      {
+        "term": "10",
+        "label": "History & Social Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "11",
+        "label": "Ancient History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "10" }
+      },
+      {
+        "term": "12",
+        "label": "Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "10" }
+      },
+      {
+        "term": "13",
+        "label": "Geography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "10" }
+      },
+      {
+        "term": "14",
+        "label": "Government, Civics & Citizenship",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "10" }
+      },
+      {
+        "term": "15",
+        "label": "State & Local History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "10" }
+      },
+      {
+        "term": "16",
+        "label": "World History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "10" }
+      },
+      {
+        "term": "17",
+        "label": "Language Arts",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "18",
+        "label": "Foundation Skills",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "17" }
+      },
+      {
+        "term": "19",
+        "label": "Media & Technology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "17" }
+      },
+      {
+        "term": "20",
+        "label": "Reading - Informational Text",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "17" }
+      },
+      {
+        "term": "21",
+        "label": "Reading - Literature",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "17" }
+      },
+      {
+        "term": "22",
+        "label": "Speaking & Listening",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "17" }
+      },
+      {
+        "term": "23",
+        "label": "Writing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "17" }
+      },
+      {
+        "term": "24",
+        "label": "Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "25",
+        "label": "Arabic",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "26",
+        "label": "Chinese",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "27",
+        "label": "English",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "28",
+        "label": "French",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "29",
+        "label": "German",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "30",
+        "label": "Greek",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "31",
+        "label": "Hindi",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "32",
+        "label": "Italian",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "33",
+        "label": "Japanese",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "34",
+        "label": "Korean",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "35",
+        "label": "Polish",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "36",
+        "label": "Portuguese",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "37",
+        "label": "Russian",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "38",
+        "label": "Spanish",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "24" }
+      },
+      {
+        "term": "39",
+        "label": "Mathematics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "40",
+        "label": "Algebra & Pre-Algebra",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "41",
+        "label": "Arithmetic",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "42",
+        "label": "Calculus & Pre-Calculus",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "43",
+        "label": "Geometry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "44",
+        "label": "Modelling",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "45",
+        "label": "Statistics & Probability",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "46",
+        "label": "Trigonometry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "39" }
+      },
+      {
+        "term": "47",
+        "label": "Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "0" }
+      },
+      {
+        "term": "48",
+        "label": "Astronomy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "49",
+        "label": "Biology & Life Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "50",
+        "label": "Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "51",
+        "label": "Computer Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "52",
+        "label": "Earth Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "53",
+        "label": "Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "54",
+        "label": "Physical Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "55",
+        "label": "Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "47" }
+      },
+      {
+        "term": "407",
+        "label": "Lifelong Learning",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "407" }
+      },
+      {
+        "term": "56",
+        "label": "University",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "57",
+        "label": "Arts",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "58",
+        "label": "Architecture",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "59",
+        "label": "Art History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "60",
+        "label": "Cinema & Photography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "61",
+        "label": "Dance & Theatre",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "62",
+        "label": "Fine Arts",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "63",
+        "label": "Media Studies",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "64",
+        "label": "Music",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "57" }
+      },
+      {
+        "term": "65",
+        "label": "Business",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "66",
+        "label": "Accounting",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "67",
+        "label": "Business Ethics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "68",
+        "label": "Entrepreneurship",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "69",
+        "label": "Finance",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "70",
+        "label": "Globalisation",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "71",
+        "label": "Health Care Management",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "72",
+        "label": "Human Resources Management",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "73",
+        "label": "Innovation",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "74",
+        "label": "Leadership",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "75",
+        "label": "Management",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "76",
+        "label": "Marketing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "77",
+        "label": "Operations Management",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "78",
+        "label": "Organisational Studies",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "79",
+        "label": "Property",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "80",
+        "label": "Supply Chain Management",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "65" }
+      },
+      {
+        "term": "81",
+        "label": "Education",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "82",
+        "label": "Curriculum",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "83",
+        "label": "Educational Policy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "84",
+        "label": "Educational Assessment",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "85",
+        "label": "Educational Leadership",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "86",
+        "label": "Educational Psychology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "87",
+        "label": "Educational Research",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "88",
+        "label": "Educational Technology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "89",
+        "label": "Higher Education",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "90",
+        "label": "Instructional Design",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "91",
+        "label": "Learning",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "92",
+        "label": "Special Education",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "93",
+        "label": "Study Skills",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "81" }
+      },
+      {
+        "term": "94",
+        "label": "Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "95",
+        "label": "Aerospace Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "96",
+        "label": "Aerodynamics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "95" }
+      },
+      {
+        "term": "97",
+        "label": "Aeronautics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "95" }
+      },
+      {
+        "term": "98",
+        "label": "Astronautics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "95" }
+      },
+      {
+        "term": "99",
+        "label": "Avionics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "95" }
+      },
+      {
+        "term": "100",
+        "label": "Guidance & Control Systems",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "95" }
+      },
+      {
+        "term": "101",
+        "label": "Bioengineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "102",
+        "label": "Chemical Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "103",
+        "label": "Civil Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "104",
+        "label": "Construction Management",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "103" }
+      },
+      {
+        "term": "105",
+        "label": "Geotechnical Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "103" }
+      },
+      {
+        "term": "106",
+        "label": "Structural Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "103" }
+      },
+      {
+        "term": "107",
+        "label": "Surveying",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "103" }
+      },
+      {
+        "term": "108",
+        "label": "Transport",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "103" }
+      },
+      {
+        "term": "109",
+        "label": "Computer Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "110",
+        "label": "Algorithms",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "111",
+        "label": "Artificial Intelligence",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "112",
+        "label": "Computational Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "113",
+        "label": "Computer Architecture",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "114",
+        "label": "Computer Design",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "115",
+        "label": "Computer Graphics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "116",
+        "label": "Cryptography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "117",
+        "label": "Data Structures",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "118",
+        "label": "Game Theory",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "119",
+        "label": "Health Informatics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "120",
+        "label": "Human-Computer Interfaces",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "121",
+        "label": "Information Theory",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "122",
+        "label": "Internet",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "123",
+        "label": "Multimedia",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "124",
+        "label": "Networks & Communications",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "125",
+        "label": "Programming Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "126",
+        "label": "Robotics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "127",
+        "label": "Software Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "109" }
+      },
+      {
+        "term": "128",
+        "label": "Electrical Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "129",
+        "label": "Digital Systems",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "128" }
+      },
+      {
+        "term": "130",
+        "label": "Electronics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "128" }
+      },
+      {
+        "term": "131",
+        "label": "Robotics & Control Systems",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "128" }
+      },
+      {
+        "term": "132",
+        "label": "Signal Processing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "128" }
+      },
+      {
+        "term": "133",
+        "label": "Telecommunication",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "128" }
+      },
+      {
+        "term": "134",
+        "label": "Environmental Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "135",
+        "label": "Materials Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "136",
+        "label": "Mechanical Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "137",
+        "label": "Acoustical Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "138",
+        "label": "Automotive Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "139",
+        "label": "Electromechanics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "140",
+        "label": "Fluid Mechanics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "141",
+        "label": "Microtechnology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "142",
+        "label": "Nanotechnology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "143",
+        "label": "Offshore Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "144",
+        "label": "Solid Mechanics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "136" }
+      },
+      {
+        "term": "145",
+        "label": "Nuclear Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "146",
+        "label": "Production & Manufacturing Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "147",
+        "label": "Systems Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "94" }
+      },
+      {
+        "term": "148",
+        "label": "History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "149",
+        "label": "Archaeology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "148" }
+      },
+      {
+        "term": "150",
+        "label": "Historiography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "148" }
+      },
+      {
+        "term": "151",
+        "label": "Periods",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "148" }
+      },
+      {
+        "term": "152",
+        "label": "Ancient History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "151" }
+      },
+      {
+        "term": "153",
+        "label": "Mediaeval History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "151" }
+      },
+      {
+        "term": "154",
+        "label": "Modern History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "151" }
+      },
+      {
+        "term": "155",
+        "label": "World History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "148" }
+      },
+      {
+        "term": "156",
+        "label": "African History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "155" }
+      },
+      {
+        "term": "157",
+        "label": "Asian History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "155" }
+      },
+      {
+        "term": "158",
+        "label": "European History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "155" }
+      },
+      {
+        "term": "159",
+        "label": "Middle Eastern History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "155" }
+      },
+      {
+        "term": "160",
+        "label": "North American History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "155" }
+      },
+      {
+        "term": "161",
+        "label": "South American History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "155" }
+      },
+      {
+        "term": "162",
+        "label": "Humanities",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "163",
+        "label": "Literature",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "162" }
+      },
+      {
+        "term": "164",
+        "label": "Academic Writing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "165",
+        "label": "American Literature",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "166",
+        "label": "Biography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "167",
+        "label": "Classics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "168",
+        "label": "Comedy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "169",
+        "label": "Drama",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "170",
+        "label": "European Literature",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "171",
+        "label": "Fiction",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "172",
+        "label": "Non-fiction Prose",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "173",
+        "label": "Poetry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "174",
+        "label": "Technical Writing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "175",
+        "label": "Tragedy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "176",
+        "label": "World Literature",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "163" }
+      },
+      {
+        "term": "177",
+        "label": "Philosophy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "162" }
+      },
+      {
+        "term": "178",
+        "label": "Religion",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "162" }
+      },
+      {
+        "term": "179",
+        "label": "Buddhism",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "178" }
+      },
+      {
+        "term": "180",
+        "label": "Christianity",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "178" }
+      },
+      {
+        "term": "181",
+        "label": "Hinduism",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "178" }
+      },
+      {
+        "term": "182",
+        "label": "Islam",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "178" }
+      },
+      {
+        "term": "183",
+        "label": "Judaism",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "178" }
+      },
+      {
+        "term": "184",
+        "label": "Theology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "178" }
+      },
+      {
+        "term": "185",
+        "label": "Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "186",
+        "label": "African Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "187",
+        "label": "American Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "188",
+        "label": "Ancient Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "189",
+        "label": "Asiatic Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "190",
+        "label": "Australasian Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "191",
+        "label": "European Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "192",
+        "label": "Linguistics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "185" }
+      },
+      {
+        "term": "193",
+        "label": "Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "194",
+        "label": "Business & Commercial Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "195",
+        "label": "Constitutional Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "196",
+        "label": "Contract Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "197",
+        "label": "Criminal Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "198",
+        "label": "Cyber Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "199",
+        "label": "Environmental Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "200",
+        "label": "Family Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "201",
+        "label": "Health",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "202",
+        "label": "Human Rights",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "203",
+        "label": "Intellectual Property",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "204",
+        "label": "Jurisprudence",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "205",
+        "label": "Labour Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "206",
+        "label": "Legal History",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "207",
+        "label": "Medical Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "208",
+        "label": "Private Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "209",
+        "label": "Property Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "210",
+        "label": "Public Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "211",
+        "label": "Regulatory Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "212",
+        "label": "Sociology of Law",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "213",
+        "label": "Taxation",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "214",
+        "label": "Torts",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "193" }
+      },
+      {
+        "term": "215",
+        "label": "Mathematics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "216",
+        "label": "Algebra & Number Theory",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "217",
+        "label": "Analysis",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "218",
+        "label": "Applied Mathematics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "219",
+        "label": "Calculus",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "220",
+        "label": "Differential Equations",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "221",
+        "label": "Linear Algebra",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "222",
+        "label": "Mathematical Logic",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "223",
+        "label": "Mathematical Modelling",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "224",
+        "label": "Numerical Analysis",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "225",
+        "label": "Pure Mathematics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "226",
+        "label": "Statistics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "227",
+        "label": "Topology & Geometry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "215" }
+      },
+      {
+        "term": "228",
+        "label": "Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "229",
+        "label": "Basic Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "230",
+        "label": "Anatomy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "231",
+        "label": "Cytology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "232",
+        "label": "Embryology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "233",
+        "label": "Epidemiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "234",
+        "label": "Genetics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "235",
+        "label": "Histology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "236",
+        "label": "Immunology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "237",
+        "label": "Medical Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "238",
+        "label": "Nutritional Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "239",
+        "label": "Pathology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "240",
+        "label": "Pharmacology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "241",
+        "label": "Photobiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "242",
+        "label": "Physiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "243",
+        "label": "Radiobiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "244",
+        "label": "Toxicology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "229" }
+      },
+      {
+        "term": "245",
+        "label": "Biomedicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "246",
+        "label": "Biochemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "245" }
+      },
+      {
+        "term": "247",
+        "label": "Biomechanics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "245" }
+      },
+      {
+        "term": "248",
+        "label": "Biophysics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "245" }
+      },
+      {
+        "term": "249",
+        "label": "Biostatics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "245" }
+      },
+      {
+        "term": "250",
+        "label": "Complementary Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "251",
+        "label": "Health & Exercise Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "252",
+        "label": "Internal Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "253",
+        "label": "Cardiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "254",
+        "label": "Critical Care Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "255",
+        "label": "Endocrinology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "256",
+        "label": "Gastroenterology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "257",
+        "label": "Geriatrics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "258",
+        "label": "Haematology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "259",
+        "label": "Hepatology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "260",
+        "label": "Infectious Diseases",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "261",
+        "label": "Nephrology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "262",
+        "label": "Oncology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "263",
+        "label": "Paediatrics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "264",
+        "label": "Pulmonology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "265",
+        "label": "Rheumatology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "266",
+        "label": "Sleep Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "252" }
+      },
+      {
+        "term": "267",
+        "label": "Medical Technology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "268",
+        "label": "Biomechanics & Prosthetics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "267" }
+      },
+      {
+        "term": "269",
+        "label": "Medical Imaging",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "267" }
+      },
+      {
+        "term": "270",
+        "label": "Radiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "267" }
+      },
+      {
+        "term": "271",
+        "label": "Nursing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "272",
+        "label": "Public Health",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "273",
+        "label": "Specialities",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "274",
+        "label": "Anaesthesiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "275",
+        "label": "Dentistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "276",
+        "label": "Dermatology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "277",
+        "label": "Neurology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "278",
+        "label": "Obstetrics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "279",
+        "label": "Ophthalmology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "280",
+        "label": "Psychiatry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "281",
+        "label": "Surgery",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "273" }
+      },
+      {
+        "term": "282",
+        "label": "Veterinary Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "228" }
+      },
+      {
+        "term": "283",
+        "label": "Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "284",
+        "label": "Agriculture",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "285",
+        "label": "Astronomy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "286",
+        "label": "Astrophysics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "285" }
+      },
+      {
+        "term": "287",
+        "label": "Observational Astronomy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "285" }
+      },
+      {
+        "term": "288",
+        "label": "Planetary Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "285" }
+      },
+      {
+        "term": "289",
+        "label": "Space Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "285" }
+      },
+      {
+        "term": "290",
+        "label": "Theoretical Astronomy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "285" }
+      },
+      {
+        "term": "291",
+        "label": "Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "292",
+        "label": "Behavioural Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "293",
+        "label": "Biochemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "294",
+        "label": "Bioinformatics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "295",
+        "label": "Biophysics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "296",
+        "label": "Botany",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "297",
+        "label": "Cell Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "298",
+        "label": "Cloning",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "299",
+        "label": "Ecology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "300",
+        "label": "Environmental Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "301",
+        "label": "Genetics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "302",
+        "label": "Marine & Freshwater Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "303",
+        "label": "Microbiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "304",
+        "label": "Molecular Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "305",
+        "label": "Neurobiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "306",
+        "label": "Population Ecology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "307",
+        "label": "Proteomics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "308",
+        "label": "Stem Cells",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "309",
+        "label": "Structural Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "310",
+        "label": "Systems Biology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "311",
+        "label": "Virology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "312",
+        "label": "Zoology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "291" }
+      },
+      {
+        "term": "313",
+        "label": "Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "314",
+        "label": "Analytical Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "313" }
+      },
+      {
+        "term": "315",
+        "label": "Environmental Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "313" }
+      },
+      {
+        "term": "316",
+        "label": "Inorganic Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "313" }
+      },
+      {
+        "term": "317",
+        "label": "Medicinal Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "313" }
+      },
+      {
+        "term": "318",
+        "label": "Organic Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "313" }
+      },
+      {
+        "term": "319",
+        "label": "Physical Chemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "313" }
+      },
+      {
+        "term": "320",
+        "label": "Cognitive Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "321",
+        "label": "Computer Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "322",
+        "label": "Algorithms",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "323",
+        "label": "Artificial Intelligence",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "324",
+        "label": "Computational Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "325",
+        "label": "Computer Architecture",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "326",
+        "label": "Computer Design",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "327",
+        "label": "Computer Graphics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "328",
+        "label": "Cryptography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "329",
+        "label": "Data Structures",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "330",
+        "label": "Game Theory",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "331",
+        "label": "Health Informatics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "332",
+        "label": "Human-Computer Interfaces",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "333",
+        "label": "Information Theory",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "334",
+        "label": "Internet",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "335",
+        "label": "Multimedia",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "336",
+        "label": "Networks & Communications",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "337",
+        "label": "Programming Languages",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "338",
+        "label": "Robotics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "339",
+        "label": "Software Engineering",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "321" }
+      },
+      {
+        "term": "340",
+        "label": "Earth Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "341",
+        "label": "Atmospheric Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "342",
+        "label": "Climatology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "343",
+        "label": "Environmental Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "344",
+        "label": "Forestry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "345",
+        "label": "Geobiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "346",
+        "label": "Geochemistry",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "347",
+        "label": "Geology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "348",
+        "label": "Geophysics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "349",
+        "label": "Glaciology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "350",
+        "label": "Hydrography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "351",
+        "label": "Oceanography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "352",
+        "label": "Planetary Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "353",
+        "label": "Soil Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "354",
+        "label": "Sustainability",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "340" }
+      },
+      {
+        "term": "355",
+        "label": "Food Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "356",
+        "label": "Forensic & Archaeological Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "357",
+        "label": "Physical Geographical Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "358",
+        "label": "Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "283" }
+      },
+      {
+        "term": "359",
+        "label": "Acoustics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "360",
+        "label": "Astrophysics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "361",
+        "label": "Atomic & Molecular Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "362",
+        "label": "Chemical Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "363",
+        "label": "Classical Mechanics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "364",
+        "label": "Condensed Matter Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "365",
+        "label": "Electromagnetism",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "366",
+        "label": "Environmental Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "367",
+        "label": "Medical Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "368",
+        "label": "Nuclear Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "369",
+        "label": "Optics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "370",
+        "label": "Particle Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "371",
+        "label": "Quantum Mechanics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "372",
+        "label": "Relativity",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "373",
+        "label": "Theoretical Physics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "374",
+        "label": "Thermodynamics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "358" }
+      },
+      {
+        "term": "375",
+        "label": "Social Sciences",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "56" }
+      },
+      {
+        "term": "376",
+        "label": "Anthropology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "377",
+        "label": "Communication",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "378",
+        "label": "Journalism",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "377" }
+      },
+      {
+        "term": "379",
+        "label": "Media Studies",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "377" }
+      },
+      {
+        "term": "380",
+        "label": "Publicity",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "377" }
+      },
+      {
+        "term": "381",
+        "label": "Publishing",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "377" }
+      },
+      {
+        "term": "382",
+        "label": "Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "383",
+        "label": "Applied Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "384",
+        "label": "Development Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "385",
+        "label": "Econometrics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "386",
+        "label": "Financial Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "387",
+        "label": "Industrial Organisation",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "388",
+        "label": "International Development",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "389",
+        "label": "International Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "390",
+        "label": "Labour Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "391",
+        "label": "Macro-economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "392",
+        "label": "Micro-economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "393",
+        "label": "Political Economy",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "394",
+        "label": "Public Economics",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "382" }
+      },
+      {
+        "term": "395",
+        "label": "Geography",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "396",
+        "label": "Political Science",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "397",
+        "label": "Psychology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "398",
+        "label": "Applied Psychology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "397" }
+      },
+      {
+        "term": "399",
+        "label": "Cognitive Psychology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "397" }
+      },
+      {
+        "term": "400",
+        "label": "Developmental Psychology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "397" }
+      },
+      {
+        "term": "401",
+        "label": "Personality Psychology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "397" }
+      },
+      {
+        "term": "402",
+        "label": "Psychobiology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "397" }
+      },
+      {
+        "term": "403",
+        "label": "Psychology in Health & Medicine",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "397" }
+      },
+      {
+        "term": "404",
+        "label": "Public Administration",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "405",
+        "label": "Social Work",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      },
+      {
+        "term": "406",
+        "label": "Sociology",
+        "-xml:lang": "en-GB",
+        "parentCategory": { "term": "375" }
+      }
+    ]
+}

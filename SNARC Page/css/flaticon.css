@@ -1,0 +1,42 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../font/flaticon.eot");
+	src: url("../font/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../font/flaticon.woff") format("woff"),
+	url("../font/flaticon.ttf") format("truetype"),
+	url("../font/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-audio:before {
+	content: "\e000";
+}
+.flaticon-download8:before {
+	content: "\e001";
+}
+.flaticon-electronics1:before {
+	content: "\e002";
+}
+.flaticon-gear2:before {
+	content: "\e003";
+}
+.flaticon-google:before {
+	content: "\e004";
+}
+.flaticon-monitor1:before {
+	content: "\e005";
+}
+.flaticon-robot3:before {
+	content: "\e006";
+}
+.flaticon-services1:before {
+	content: "\e007";
+}
+.flaticon-settings1:before {
+	content: "\e008";
+}

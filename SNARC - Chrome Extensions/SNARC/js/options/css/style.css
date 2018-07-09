@@ -1,0 +1,29 @@
+@import url("fontello.css");
+
+/* Basic Settings */
+.blue {background: none repeat scroll 0 0 #3A89E5}
+.green {background: none repeat scroll 0 0 #3EC15B}
+.yellow{background: none repeat scroll 0 0 #EFAB00;}
+.red {background: none repeat scroll 0 0 #982723}
+
+body {font-family: 'Merriweather Sans', sans-serif;width: 80%;margin: 4em auto;}
+
+.introduction {width:40%;float: left;display: table;}
+    .title {font-size: 2.3em; color: #3A89E5;text-align: center;border-bottom: 1px solid #e8e8e8;padding: 0 0 10px;}
+    .description {text-align: justify;line-height: 2.4em;}
+
+.options {width: 55%;display: block;padding: 0 2em;position: relative;margin: 5em 0;float: right;}
+    .options h3{ display: inline-block;margin: 0 15px;font-size: 0.9em;}
+    .options .title {display: table;border-bottom: 1px solid #e8e8e8;width: 100%;padding: 0 0 10px;text-align: left;}
+    .checkboxes li {list-style: none;margin: 1em;font-size: 1.2em;}
+        input[type="checkbox"] { margin: 0 2em;}
+    .options button {cursor:pointer;border: none;padding: 0.5em 1em;color: #fff;text-transform: uppercase;font-weight: bold;font-size: 1em;margin: 0 auto;display: table;}
+    .saveMessage {width: 100%;text-align: center;border: 1px solid #e8e8e8;padding: 5px;color: #fff;display: none}
+
+.contact {display: inline-block;float: right;}
+    ul.contact li {list-style: none;display: inline-table;margin: 0 10px;}
+    ul.contact li a {text-decoration: none;color:  #000;font-size: 1.2em;font-weight: bold;}
+    ul.contact li i {color: #727069;margin: 0 10px;}
+    ul.contact li a:hover {border-bottom: 2px solid #3A89E5; padding-bottom: 5px;}
+        .author {display: table;width: 100%;float: left;}
+        .name {font-size: 1.3em;text-transform: uppercase;}
